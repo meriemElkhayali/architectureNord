@@ -73,18 +73,18 @@ export default function Contact() {
               type="text"
               name="user_name"
               placeholder="Votre nom"
-              className="contact-form-txt"
+              className="contact-form-txt" required
             />
             <input
               type="email"
               name="user_email"
               placeholder="Votre adresse e-mail"
-              className="contact-form-txt"
+              className="contact-form-txt" required
             />
             <textarea
               name="message"
               placeholder="Votre message"
-              className="contact-form-txtarea"
+              className="contact-form-txtarea" required
             />
             {error && <p style={{ color: 'red' }}>{error}</p>}
             <input type="submit" value="Envoyer" className="contact-form-btn" />
