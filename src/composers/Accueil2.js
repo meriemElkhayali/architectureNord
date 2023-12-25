@@ -26,7 +26,7 @@ export default function Accueil2() {
     gence d’architecture, d’urbanisme et de design installée à Tanger et ayant la forme juridique d’une société à responsabilité limitée inscrite à l’ordre national des architectes. Qui commence à exercer depuis longtemps et maintenant elle a une équipe très forte qui travaille sur tous les types des projets d’architecture et de design, notre plus fort point c’est notre présence au chantier et notre suivie des projets depuis la signature de contrat jusqu’à l’obtention de permis d’habité ou d’exploitation et nous avons des collaborateurs de tous les domaines de bâtiment des ingénieures de BET et BCT des topographes agrée et des entreprises de construction et des décorateurs, et nous prends tous notre responsabilités de toutes les étapes nécessaires.
     </p>  
     <video autoPlay controls loop >
-	<source src="/image/VDO6.mp4"  type="video/mp4"/>
+	<source src="https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/VDO6.mp4?alt=media&token=03ef9eb8-853e-4949-b5fe-e6174a274186"  type="video/mp4"/>
     </video> 
     {/* <video autoplay loop muted plays-inline class="back-video">
 <source src="vdbg.mp4" type="video/mp4"/>
