@@ -8,11 +8,11 @@ export default function TemplateDemo() {
 
     const images1 = [
       
-      'image/AB1.jpeg',
-      'image/CD1.jpeg',
-      'image/EF1.jpeg',
-      'image/GH1.jpeg',
-      'image/IJ1.jpeg',
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/AB1.jpeg?alt=media&token=28b5b1d9-5a0d-4e58-a542-922a1b93f4b8',
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/CD1.jpeg?alt=media&token=decedde2-b40c-45a5-88d4-39d449ed68d1',
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/EF1.jpeg?alt=media&token=f53ecef5-5222-413f-9430-daccc52efb24',
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/GH1.jpeg?alt=media&token=acee145a-9414-4238-a494-e159d24610c4',
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/IJ1.jpeg?alt=media&token=8080d3e7-d13f-4fa7-85e0-f54334abe7bd',
       'image/immo5.jpg',
       'image/immo6.jpg', 
       'image/immo1.png',
