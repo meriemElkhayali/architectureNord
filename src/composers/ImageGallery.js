@@ -54,7 +54,6 @@ export default function TemplateDemo() {
       'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/GH2.jpeg?alt=media&token=17e2b894-9f88-43fc-a8de-f2ed96eccc9f',
 
       'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/AB3.jpeg?alt=media&token=88524cb0-dfdb-4416-a039-079876798afd',
-      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/CD3.jpeg?alt=media&token=11726a36-ab65-4710-a707-f37600138910',
       'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/EF3.jpeg?alt=media&token=44f9ef96-ccbd-4f11-8723-9056ec44b49d',
       'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/GH3.jpeg?alt=media&token=0a519445-2ae1-4b9d-a64a-f48eccbb37ba',
       'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/amminagement1.jpg?alt=media&token=c98e9ae7-2f0c-4b82-b41d-affd7181bf6e',

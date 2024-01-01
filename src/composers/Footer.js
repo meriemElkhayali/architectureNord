@@ -22,7 +22,7 @@ export default function Footer() {
   />
 </a></div> */}
 
-        <p class="copyright">STE ABDO ARCHI NORD SARL © 2023</p>   
+        <p class="copyright">STE ABDO ARCHI NORD SARL © 2024</p>   
 
         <p class="copyright">web site created by :<a href='https://ma.linkedin.com/in/meriem-el-khayali-a90070248'>  <img src='https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/meriemelkh.png?alt=media&token=36781663-02b7-409f-bbb9-69c66c1c9c62' style={{ height:"60px" }}/>   </a> </p> 
       
