@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/architectureNord/static/css/main.45e69c65.css",
-    "main.js": "/architectureNord/static/js/main.a190a1be.js",
+    "main.js": "/architectureNord/static/js/main.034a9cbf.js",
     "static/js/787.42cfa07b.chunk.js": "/architectureNord/static/js/787.42cfa07b.chunk.js",
     "index.html": "/architectureNord/index.html",
     "static/media/logo.svg": "/architectureNord/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.ttf": "/architectureNord/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/architectureNord/static/media/slick.295183786cd8a1389865.woff",
     "main.45e69c65.css.map": "/architectureNord/static/css/main.45e69c65.css.map",
-    "main.a190a1be.js.map": "/architectureNord/static/js/main.a190a1be.js.map",
+    "main.034a9cbf.js.map": "/architectureNord/static/js/main.034a9cbf.js.map",
     "787.42cfa07b.chunk.js.map": "/architectureNord/static/js/787.42cfa07b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45e69c65.css",
-    "static/js/main.a190a1be.js"
+    "static/js/main.034a9cbf.js"
   ]
 }
