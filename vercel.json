@@ -2,9 +2,9 @@
     "version": 2,
     "builds": [
       {
-        "src": "src/**/*", // Chemin vers votre code source
+        "src": "src/**/*",
         "use": "@vercel/static-build",
-        "config": { "distDir": "build" } // Répertoire de build
+        "config": { "distDir": "build" }
       }
     ],
     "routes": [
