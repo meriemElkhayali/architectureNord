@@ -2,13 +2,19 @@
     "version": 2,
     "builds": [
       {
-        "src": "public/**/*",
+        "src": "src/**/*", // Chemin vers votre code source
         "use": "@vercel/static-build",
-        "config": { "distDir": "build" }
+        "config": { "distDir": "build" } // Répertoire de build
       }
     ],
     "routes": [
-        { "src": "/.*", "dest": "/public/index.html" }
-      ]
+      { "handle": "filesystem" },
+      {
+        "src": "/(.*\\.(ico|gif|png|jpg|jpeg|svg|woff|woff2|ttf|otf|css|js|json|xml|webmanifest|webp))$",
+        "dest": "/public/$1",
+        "headers": { "cache-control": "public, max-age=31536000, immutable" }
+      },
+      { "src": "/.*", "dest": "/public/index.html" }
+    ]
   }
   
