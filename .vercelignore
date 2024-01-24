@@ -1,7 +1,0 @@
-# .vercelignore
-node_modules
-src/tests
-.eslintrc
-.git
-build
-src/App.css
