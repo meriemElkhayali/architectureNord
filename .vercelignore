@@ -4,3 +4,4 @@ src/tests
 .eslintrc
 .git
 build
+src/App.css
