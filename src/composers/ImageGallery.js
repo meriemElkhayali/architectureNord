@@ -8,17 +8,8 @@ export default function TemplateDemo() {
 
     const images1 = [
       
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/AB1.jpeg?alt=media&token=c379076f-7533-4682-b11d-5c035ebbc435',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/CD1.jpeg?alt=media&token=ebdd5478-8acb-48a8-a915-79bb81aab85f',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/EF1.jpeg?alt=media&token=ebbe1474-b9f0-4d8a-8dae-20781b1c26bd',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/GH1.jpeg?alt=media&token=0a94035b-c177-4df9-b207-77a21797a323',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/IJ1.jpeg?alt=media&token=08d5bd78-fcaf-43e1-b88e-99ac5bfff8d5',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo5.jpg?alt=media&token=644087c9-55a6-4ab1-b446-3cef4f4ae94a',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo6.jpeg?alt=media&token=f0d89de1-4c0e-41b7-8d1d-3a1945f30144', 
+      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/AB1.jpeg?alt=media&token=c379076f-7533-4682-b11d-5c035ebbc435', 
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo1.jpg?alt=media&token=2272778a-133b-4755-9c0f-ec2ec40434dd',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo3.jpg?alt=media&token=088f9655-9611-4ae1-b64e-aee34b979f40',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo2.jpeg?alt=media&token=b6153a5a-7ab5-4d63-8969-898d2310f447',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa4.jpg?alt=media&token=0dc647e4-bcb3-4292-873f-2102747aeffc',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo7.jpeg?alt=media&token=50e39ecb-4902-401f-ac3e-2d07fa171e44',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo8.jpeg?alt=media&token=8d60fc8e-54e0-4b8a-9f40-4750a2b0ed9c',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo10.jpeg?alt=media&token=9c3506b2-c4e1-4866-8485-16aa9a4fcef9',
@@ -27,14 +18,14 @@ export default function TemplateDemo() {
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo13.jpg?alt=media&token=49375fc0-0d42-4402-9736-378250c42c68',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo14.jpeg?alt=media&token=9108acd2-1831-469c-b707-3dc5cf134331',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/immo15.jpeg?alt=media&token=e1010830-805b-458e-a719-f91201c153c5',
-
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/newimmo.jpeg?alt=media&token=e6b23953-f5c9-4edf-9bd2-44fbe92f3af3'
+   
     ];
     const images2 = [
       
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa1.jpeg?alt=media&token=13260e2a-6f24-45c2-b004-f0b39e30cab4',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/Villa2.jpg?alt=media&token=31f8770f-2fdc-49fb-96d5-012eeae75a3c',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa3.jpeg?alt=media&token=59bf9f9c-2c28-49d7-a481-f9e0744cd016',
-      'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa4.jpg?alt=media&token=0dc647e4-bcb3-4292-873f-2102747aeffc',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/Villa5.jpg?alt=media&token=0c8be836-685c-497e-bf0a-046499bdaaa9',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa6.jpg?alt=media&token=a3d575b7-3cf0-42a7-94ea-6f784130a92c',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa7.jpg?alt=media&token=a73b9800-ba8a-4f97-8b97-f39c03c52408',
@@ -42,7 +33,8 @@ export default function TemplateDemo() {
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa10.jpg?alt=media&token=c7fadb31-5763-42c1-bb8b-66cab374357c',  
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa11.jpeg?alt=media&token=871ee3c0-ab7b-4c9b-84f5-374b18231262',
       'https://firebasestorage.googleapis.com/v0/b/imagesarchi-42acd.appspot.com/o/villa12.jpeg?alt=media&token=9ac60fe8-37a8-4c86-8e30-74eea457d32b',  
-
+      'https://firebasestorage.googleapis.com/v0/b/archivideo-14dff.appspot.com/o/newvilla.jpeg?alt=media&token=7566eb80-6c1a-42cc-8083-c03d6065b6d4'
+   
     ];
     const images3 = [
       
